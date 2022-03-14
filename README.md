@@ -10,4 +10,4 @@
 
 # 1. Membuat Paragraf
 ini adalah hasil sebuah paragraf dan atribut pembuatannya adalah (align = justify, left, right, and center)
-![Lab1web](ss/membuat%20paragraf.PNG)
+![Lab1web](ss/membuat paragraf.PNG)
