@@ -22,3 +22,8 @@ ini adalah sebuah paragraf dan ini sebuah gambar penambahan sebuah judul di sebu
 ini adalah sebuah paragraf dan disini adalah sebuah paragraf yang diformat sehingga tampilannya akan berbeda
 
 ![Lab1web](ss/memformat%20teks.PNG)
+
+# 4. Menambahkan Gambar 
+Untuk menambahkan gambar, persiapkan dulu sebuah gambar terlebih dahulu uang ikin dimasukan pada HTML dan taruh gambar di folder
+
+![Lab1web](ss/menambahkan%20gambar.PNG)
