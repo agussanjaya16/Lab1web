@@ -7,6 +7,10 @@
 
 # Langkah-Langkah Praktikum
 
+Nama saya Agus Sanjaya dan disini saya akan menjelaskan tentang cara membuat web dengan HTML
+Pertama siapkan Visual Studio Code dan browser . Dan disini adalah cara codingan nya
+
+![Lab1web](ss/codingan%20paragraf.PNG)
 
 # 1. Membuat Paragraf
 ini adalah hasil sebuah paragraf dan atribut pembuatannya adalah (align = justify, left, right, and center)
