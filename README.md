@@ -17,3 +17,8 @@ ini adalah hasil sebuah paragraf dan atribut pembuatannya adalah (align = justif
 ini adalah sebuah paragraf dan ini sebuah gambar penambahan sebuah judul di sebuah paragraf
 
 ![Lab1web](ss/penambahan%20judul.PNG)
+
+# 3. Memformat Teks
+ini adalah sebuah paragraf dan disini adalah sebuah paragraf yang diformat sehingga tampilannya akan berbeda
+
+![Lab1web](ss/memformat%20teks.PNG)
